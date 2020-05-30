@@ -1,0 +1,2 @@
+<!--pages/home/home.wxml-->
+<video class="video" src="/assets/video.mp4" autoplay controls></video>

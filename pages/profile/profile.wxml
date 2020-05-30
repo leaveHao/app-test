@@ -1,0 +1,7 @@
+<!--pages/profile/profile.wxml-->
+<view class="header">
+  <image src="{{userAvatar}}" class="background"></image>
+  <view class="avatar_box">
+  <image src="{{userAvatar}}" class="avatar"></image>
+  </view>
+</view>
